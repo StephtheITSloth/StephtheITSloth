@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephane Karim</h1>
+<h3 align="center">Welcome to my hub.  Hope you'll enjoy the repos, and contact me for any issue.<h3>
 <h3 align="center">A cheerful developer with a background in Biology, and Photography.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephtheitsloth&label=Profile%20views&color=0e75b6&style=flat" alt="stephtheitsloth" /> </p>
