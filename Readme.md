@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephtheitsloth&show_icons=true&locale=en&layout=compact" alt="stephtheitsloth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephtheitsloth&show_icons=true&locale=en" alt="stephtheitsloth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephtheitsloth&theme=cobalt&show_icons=true&locale=en" alt="stephtheitsloth" /></p>
