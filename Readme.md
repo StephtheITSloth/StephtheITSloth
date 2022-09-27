@@ -14,11 +14,11 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/stephane-karim/](https://www.linkedin.com/in/stephane-karim/)
 
-- 💬 Ask me about **react, styled-components.**
+- 💬 Ask me about **SSR,SG, Real Time**
 
 - 📫 How to reach me **stephan.karim.sk@gmail.com**
 
-- ⚡ Fun fact **I bet you'll think I am cocky until you meet me in person.**
+- ⚡ Fun fact **my curiosity is a sin..llol**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
