@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently working on **Building a new application every week.**
 
-- 🌱 I’m currently learning **AWS Amplify, ReactNative, DEvOps.**
+- 🌱 I’m currently learning **DEvOps, and C++.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StephtheITSloth](https://github.com/StephtheITSloth)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/stephane-karim/](https://www.linkedin.com/in/stephane-karim/)
 
-- 💬 Ask me about **SSR,SG, Real Time**
+- 💬 Ask me about **P2P, Realtime**
 
 - 📫 How to reach me **stephan.karim.sk@gmail.com**
 
-- ⚡ Fun fact **my curiosity is a sin..llol**
+- ⚡ Fun fact **I am a bartender at night**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
