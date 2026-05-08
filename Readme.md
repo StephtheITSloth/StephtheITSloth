@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Stephane Karim</h1>
 <h3 align="center">Welcome to my hub.  Hope you'll enjoy the repos, and contact me for any issue.<h3>
-<h3 align="center">A cheerful developer with a background in Biology, and Photography.</h3>
+<h3 align="center">A cheerful developer with a background in Biology, and Photography, and Spacial Artistry.  I am an actor in the African Renaissance movement, and my art focuses on Ancestral Resonance and Human Revolution.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephtheitsloth&label=Profile%20views&color=0e75b6&style=flat" alt="stephtheitsloth" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stephane_karim1" target="blank"><img src="https://img.shields.io/twitter/follow/stephane_karim1?logo=twitter&style=for-the-badge" alt="stephane_karim1" /></a> </p>
 
-- 🔭 I’m currently working on **Building a new application every week.**
+- 🔭 I’m currently working on **Writing software audit for one company each month, and help them go from an idea to a customer centered MVP.**
 
-- 🌱 I’m currently learning **DEvOps, and C++.**
+- 🌱 I’m currently learning **Cybersecurity, and Threes.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StephtheITSloth](https://github.com/StephtheITSloth)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/stephane-karim/](https://www.linkedin.com/in/stephane-karim/)
+- 💬 Ask me about **Post Quantum Computer Cryptography, How to make a perfect Manhattan**
 
-- 💬 Ask me about **P2P, Realtime**
-
-- 📫 How to reach me **stephan.karim.sk@gmail.com**
+- 📫 How to reach me **info.seekingdiscomfort@gmail.com**
 
 - ⚡ Fun fact **I am a bartender at night**
 
