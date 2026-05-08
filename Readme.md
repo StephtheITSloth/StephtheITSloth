@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephane Karim</h1>
 <h3 align="center">Welcome to my hub.  Hope you'll enjoy the repos, and contact me for any issue.<h3>
-<h3 align="center">A cheerful developer with a background in Biology, and Photography, and Spacial Artistry.  I am an actor in the African Renaissance movement, and my art focuses on Ancestral Resonance and Human Revolution.</h3>
+<h3 align="center">A cheerful problem solver with a background in Biology, Photography, and Spacial Artistry.  I am an actor in the African Renaissance movement, and my art focuses on Ancestral Resonance and Human Revolution.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephtheitsloth&label=Profile%20views&color=0e75b6&style=flat" alt="stephtheitsloth" /> </p>
 
